@@ -1,5 +1,3 @@
-# Project: NATO Phonetic Alphabet Translator (Python Scripting)
+# Project: Morse Code Translator (Python Scripting)
 
-Description: Simple application that translates a user inputting message into NATO phonetic alphabet names. Input may contain spaces and basic punctuation
-
-Python Libraries: Pandas
+Description: Simple program that asks the user for a message, then translates that message into a Morse code output. Numbers and most special characters included
